@@ -12,9 +12,5 @@
         <project path="device/xiaomi/ginkgo" name="android_device_xiaomi_ginkgo" remote="me" revision="pe-11" clone-depth="1" />
         <project path="vendor/xiaomi/ginkgo" name="android_vendor_xiaomi_ginkgo" remote="ginkgo_repo" revision="eleven" clone-depth="1" />
         <project path="kernel/xiaomi/ginkgo" name="android_kernel_xiaomi_ginkgo" remote="ginkgo_repo" revision="main" clone-depth="1" />
-        <project path="vendor/xiaomi/trinket-common" name="android_vendor_xiaomi_trinket-common" remote="ginkgo_repo" revision="potato-11" clone-depth="1" />
-        <project path="hardware/qcom-caf/sm8150/media" name="android_hardware_qcom-caf_sm8150_media" remote="ginkgo_repo" revision="eleven" clone-depth="1" />
-        <project path="hardware/qcom-caf/sm8150/display" name="android_hardware_qcom-caf_sm8150_display" remote="ginkgo_repo" revision="eleven" clone-depth="1" />
-        <project path="hardware/qcom-caf/sm8150/audio" name="android_hardware_qcom-caf_sm8150_audio" remote="ginkgo_repo" revision="eleven" clone-depth="1" />
         
 </manifest>
